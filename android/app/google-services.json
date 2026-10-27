@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996348282762",
+    "project_id": "inno-media",
+    "storage_bucket": "inno-media.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996348282762:android:adfb6730c829462d01ea73",
+        "android_client_info": {
+          "package_name": "com.example.inno_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP0X0-KJu9pysKdgpwzCses8wpmzIMpL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
